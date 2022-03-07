@@ -1,0 +1,253 @@
+2021-03-23 02:29:37.7234|INFO|ChatLog|config data save.
+2021-03-23 02:29:43.3936|INFO|ChatLog|config data save.
+2021-03-23 03:40:25.0014|INFO|ChatLog|config data save.
+2021-03-23 03:40:25.0064|INFO|ChatLog|config data save.
+2021-03-23 03:41:07.0169|INFO|ChatLog|config data save.
+2021-03-23 03:41:10.0992|INFO|ChatLog|config data save.
+2021-03-23 03:46:38.4097|INFO|ChatLog|Load template:
+2021-03-23 03:46:38.4187|ERROR|ChatLog|Not reader format. FileName:Config/server_info.csv
+2021-03-23 03:46:38.4526|ERROR|ChatLog|LoadTableData fail. Msg:System.Exception: Load fail. FileName:Config/server_info.csv
+   위치: ClientForm.Config.ConfigData_New.Load() 파일 D:\5. Code\ChatClient\ClientForm\Config\ConfigData_New.cs:줄 39
+2021-03-23 03:46:47.9229|INFO|ChatLog|config data save.
+2021-03-23 03:46:52.8547|INFO|ChatLog|config data save.
+2021-03-23 03:48:10.5864|INFO|ChatLog|Load template:
+2021-03-23 03:48:10.5864|ERROR|ChatLog|Not reader format. FileName:Config/server_info.csv
+2021-03-23 03:48:10.6163|ERROR|ChatLog|LoadTableData fail. Msg:System.Exception: Load fail. FileName:Config/server_info.csv
+   위치: ClientForm.Config.ConfigData_New.Load() 파일 D:\5. Code\ChatClient\ClientForm\Config\ConfigData_New.cs:줄 39
+2021-03-23 03:51:41.0479|INFO|ChatLog|Load template:
+2021-03-23 03:51:41.0559|ERROR|ChatLog|Not reader format. FileName:Config/server_info.csv
+2021-03-23 03:51:41.0978|ERROR|ChatLog|LoadTableData fail. Msg:System.Exception: Load fail. FileName:Config/server_info.csv
+   위치: ClientForm.Config.ConfigData_New.Load() 파일 D:\5. Code\ChatClient\ClientForm\Config\ConfigData_New.cs:줄 39
+2021-03-23 03:51:55.5430|INFO|ChatLog|config data save.
+2021-03-23 03:51:57.8788|INFO|ChatLog|config data save.
+2021-03-23 03:52:48.2884|INFO|ChatLog|Load template:
+2021-03-23 03:52:48.2884|ERROR|ChatLog|Not reader format. FileName:Config/server_info.csv
+2021-03-23 03:52:48.3213|ERROR|ChatLog|LoadTableData fail. Msg:System.Exception: Load fail. FileName:Config/server_info.csv
+   위치: ClientForm.Config.ConfigData_New.Load() 파일 D:\5. Code\ChatClient\ClientForm\Config\ConfigData_New.cs:줄 39
+2021-03-23 03:52:59.6875|INFO|ChatLog|config data save.
+2021-03-23 03:53:01.8297|INFO|ChatLog|config data save.
+2021-03-23 03:54:09.7036|INFO|ChatLog|Load template:
+2021-03-23 03:54:09.7126|ERROR|ChatLog|Not reader format. FileName:Config/server_info.csv
+2021-03-23 03:54:09.7366|ERROR|ChatLog|LoadTableData fail. Msg:System.Exception: Load fail. FileName:Config/server_info.csv
+   위치: ClientForm.Config.ConfigData_New.Load() 파일 D:\5. Code\ChatClient\ClientForm\Config\ConfigData_New.cs:줄 39
+2021-03-23 03:54:17.8713|INFO|ChatLog|config data save.
+2021-03-23 03:54:17.8713|INFO|ChatLog|config data save.
+2021-03-23 04:36:47.6960|INFO|ChatLog|Load template:
+2021-03-23 04:36:47.6960|ERROR|ChatLog|Not reader format. FileName:Config/server_info.csv
+2021-03-23 04:36:47.7289|ERROR|ChatLog|LoadTableData fail. Msg:System.Exception: Load fail. FileName:Config/server_info.csv
+   위치: ClientForm.Config.ConfigData.Load() 파일 D:\5. Code\ChatClient\ClientForm\Config\ConfigData.cs:줄 42
+2021-03-23 04:36:47.7289|INFO|ChatLog|Load template:
+2021-03-23 04:36:47.7289|ERROR|ChatLog|Not reader format. FileName:Config/server_info.csv
+2021-03-23 04:36:47.7289|ERROR|ChatLog|LoadTableData fail. Msg:System.Exception: Load fail. FileName:Config/server_info.csv
+   위치: ClientForm.Config.ConfigData.Load() 파일 D:\5. Code\ChatClient\ClientForm\Config\ConfigData.cs:줄 42
+2021-03-23 04:40:04.9206|INFO|ChatLog|Load template:
+2021-03-23 04:40:47.7736|INFO|ChatLog|Load template:
+2021-03-23 04:41:24.0951|INFO|ChatLog|config data save.
+2021-03-23 04:41:24.1131|INFO|ChatLog|config data save.
+2021-03-23 04:41:45.2601|INFO|ChatLog|Load template:
+2021-03-23 04:41:45.2601|ERROR|ChatLog|Not reader format. FileName:Config/server_info.csv
+2021-03-23 04:41:45.2890|ERROR|ChatLog|LoadTableData fail. Msg:System.Exception: Load fail. FileName:Config/server_info.csv
+   위치: ClientForm.Config.ConfigData.Load() 파일 D:\5. Code\ChatClient\ClientForm\Config\ConfigData.cs:줄 46
+2021-03-23 04:41:53.5821|INFO|ChatLog|config data save.
+2021-03-23 04:41:53.5891|INFO|ChatLog|config data save.
+2021-03-23 04:42:50.8216|INFO|ChatLog|Load template:
+2021-03-23 04:43:31.7991|INFO|ChatLog|config data save.
+2021-03-23 04:43:57.7380|INFO|ChatLog|Load template:
+2021-03-23 04:44:13.0177|ERROR|ChatLog|Not reader format. FileName:Config/server_info.csv
+2021-03-23 04:44:13.0696|ERROR|ChatLog|LoadTableData fail. Msg:System.Exception: Load fail. FileName:Config/server_info.csv
+   위치: ClientForm.Config.ConfigData.Load() 파일 D:\5. Code\ChatClient\ClientForm\Config\ConfigData.cs:줄 46
+2021-03-23 04:44:37.3017|INFO|ChatLog|config data save.
+2021-03-23 04:44:57.5548|INFO|ChatLog|Load template:
+2021-03-23 04:45:13.3187|INFO|ChatLog|config data save.
+2021-03-23 04:47:16.2529|INFO|ChatLog|Load template:
+2021-03-23 04:47:20.0891|ERROR|ChatLog|Reader error File:Config/server_info.csv, Message:'D:\5. Code\ChatClient\ClientForm\bin\Debug\Config\server_info.csv.csv' 파일을 찾을 수 없습니다.
+2021-03-23 04:50:09.0840|INFO|ChatLog|Load template:
+2021-03-23 04:50:12.7641|ERROR|ChatLog|Not data type. ColumnName:Name, FileName:Config/server_info
+2021-03-23 04:50:12.7641|ERROR|ChatLog|Not data type. ColumnName:Address, FileName:Config/server_info
+2021-03-23 04:50:12.7641|ERROR|ChatLog|Not found column. Key:Name, FileName:Config/server_info
+2021-03-23 04:50:12.7641|ERROR|ChatLog|Not found column. Key:Address, FileName:Config/server_info
+2021-03-23 04:50:48.4396|ERROR|ChatLog|Not data type. ColumnName:Name, FileName:Config/server_info
+2021-03-23 04:50:48.4396|ERROR|ChatLog|Not data type. ColumnName:Address, FileName:Config/server_info
+2021-03-23 04:51:28.4065|ERROR|ChatLog|Not found column. Key:Name, FileName:Config/server_info
+2021-03-23 04:51:28.4065|ERROR|ChatLog|Not found column. Key:Address, FileName:Config/server_info
+2021-03-23 04:52:54.9079|ERROR|ChatLog|Not data type. ColumnName:Name, FileName:Config/server_info
+2021-03-23 04:53:49.0022|INFO|ChatLog|Load template:
+2021-03-23 04:55:01.6717|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 04:55:14.6939|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 04:55:18.9660|INFO|ChatLog|config data save.
+2021-03-23 04:57:38.3466|INFO|ChatLog|Load template:
+2021-03-23 04:57:38.3616|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 04:57:38.3616|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 04:57:40.8195|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 04:57:40.8195|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:05:54.9347|INFO|ChatLog|Load template:
+2021-03-23 05:05:54.9487|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:05:54.9487|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:05:54.9487|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:05:54.9487|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:11:06.9977|INFO|ChatLog|Load template:
+2021-03-23 05:11:07.0127|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:11:07.0127|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:11:07.0127|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:11:07.0127|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:17:18.0629|INFO|ChatLog|Load template:
+2021-03-23 05:17:18.0739|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:17:18.0739|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:17:18.0739|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:17:18.0739|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:17:55.3009|INFO|ChatLog|Load template:
+2021-03-23 05:17:55.3128|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:17:55.3128|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:17:55.3128|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:17:55.3128|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:18:52.6840|INFO|ChatLog|Load template:
+2021-03-23 05:18:52.7199|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:18:52.7199|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:18:52.7808|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:18:52.7808|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:20:56.1545|INFO|ChatLog|Load template:
+2021-03-23 05:20:56.1694|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:20:56.1694|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:20:56.1694|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:20:56.1694|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:21:30.4201|INFO|ChatLog|Load template:
+2021-03-23 05:21:30.4854|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:21:30.4854|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:21:30.4854|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:21:30.4854|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:31:23.5211|INFO|ChatLog|Load template:
+2021-03-23 05:31:23.5211|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:31:23.5211|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 05:31:23.5211|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 05:31:23.5211|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 11:06:00.9928|INFO|ChatLog|Load template:
+2021-03-23 11:06:01.0087|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 11:06:01.0087|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 11:06:01.0197|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 11:06:01.0197|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 11:06:21.7454|ERROR|ChatLog|
+
+==========================================================
+2021-03-23 11:06:22.7502|INFO|ChatLog|Load template:
+2021-03-23 11:06:22.7502|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 11:06:22.7502|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 11:06:22.7502|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 11:06:22.7502|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 11:06:22.7562|DEBUG|ChatLog|System Msg >> lime001@lime.com, Connected successfully.
+2021-03-23 11:06:22.8868|DEBUG|ChatLog|Response >> roya, LoginWithTokenResponse, {"mtalkToken":null,"characterId":null,"gameUserId":0,"subscriptionInfo":null,"gameRoomInfoList":null}
+2021-03-23 11:06:22.8998|ERROR|ChatLog|Send >> {"Num":1,"UserInfo":{"UserKey":"SB-Game/(1)[roya]","NickName":"roya","UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":""}},"DetailType":1,"ActionData":null,"Send":true,"Recv":false}
+2021-03-23 11:06:22.8998|ERROR|ChatLog|
+
+==========================================================
+2021-03-23 11:06:22.8998|ERROR|ChatLog|ScenarioCheck 0
+2021-03-23 11:06:22.8998|ERROR|ChatLog|Recv >> {"Num":1,"UserInfo":{"UserKey":"SB-Game/(1)[roya]","NickName":"roya","UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":""}},"DetailType":1,"ActionData":null,"Send":true,"Recv":true}
+2021-03-23 11:12:12.2390|INFO|ChatLog|Load template:
+2021-03-23 11:12:12.2390|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 11:12:12.2390|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 11:12:12.2569|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 11:12:12.2569|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 11:12:38.7992|INFO|ChatLog|Save Scenario Info
+2021-03-23 11:24:45.3760|INFO|ChatLog|Load template:
+2021-03-23 11:24:45.3870|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 11:24:45.3870|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 11:24:45.3870|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 11:24:45.3870|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 11:24:58.9792|INFO|ChatLog|Save Scenario Info
+2021-03-23 11:29:18.3217|INFO|ChatLog|Load template:
+2021-03-23 11:29:18.3376|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 11:29:18.3376|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 11:29:18.3376|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 11:29:18.3376|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 13:53:32.6059|INFO|ChatLog|Load template:
+2021-03-23 13:53:32.6218|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 13:53:32.6218|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 13:53:32.6218|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 13:53:32.6218|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 13:53:40.4720|ERROR|ChatLog|Reader error File:, Message:'D:\5. Code\ChatClient\ClientForm\bin\Debug\.csv' 파일을 찾을 수 없습니다.
+2021-03-23 13:53:55.6384|ERROR|ChatLog|Reader error File:, Message:'D:\5. Code\ChatClient\ClientForm\bin\Debug\.csv' 파일을 찾을 수 없습니다.
+2021-03-23 13:53:55.6484|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 13:54:25.5281|ERROR|ChatLog|Reader error File:, Message:'D:\5. Code\ChatClient\ClientForm\bin\Debug\.csv' 파일을 찾을 수 없습니다.
+2021-03-23 13:54:25.5390|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 14:04:44.2540|INFO|ChatLog|Load template:
+2021-03-23 14:04:47.2934|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 14:04:47.2934|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 14:04:47.2934|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 14:04:47.2934|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 14:04:56.3292|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:'C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv.csv' 파일을 찾을 수 없습니다.
+2021-03-23 14:05:29.6415|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:'C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv.csv' 파일을 찾을 수 없습니다.
+2021-03-23 14:05:29.6495|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 14:27:30.8456|INFO|ChatLog|Load template:
+2021-03-23 14:51:52.7605|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 14:51:52.7605|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 14:51:52.7605|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 14:51:52.7605|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 14:51:58.6842|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:'C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv.csv' 파일을 찾을 수 없습니다.
+2021-03-23 14:51:58.6912|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 14:52:11.6179|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:'C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv.csv' 파일을 찾을 수 없습니다.
+2021-03-23 14:52:11.6179|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 15:01:25.2107|INFO|ChatLog|Load template:
+2021-03-23 15:01:28.0738|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 15:01:28.0738|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 15:01:28.0738|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 15:01:28.0738|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 15:01:35.1323|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:인덱스가 배열 범위를 벗어났습니다.
+2021-03-23 15:01:35.1323|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 15:01:55.5010|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:인덱스가 배열 범위를 벗어났습니다.
+2021-03-23 15:01:55.5090|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 15:02:03.6976|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:인덱스가 배열 범위를 벗어났습니다.
+2021-03-23 15:02:31.2427|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:인덱스가 배열 범위를 벗어났습니다.
+2021-03-23 15:02:31.2427|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 18:49:12.8351|INFO|ChatLog|Load template:
+2021-03-23 18:49:12.8521|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 18:49:12.8521|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 18:49:12.8521|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 18:49:12.8521|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 19:31:34.4447|INFO|ChatLog|Load template:
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Name, FileName:Config/game_code
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Name, FileName:Config/game_code
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Code, FileName:Config/game_code
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Name, FileName:Config/server_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Address, FileName:Config/server_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Name, FileName:Config/server_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Address, FileName:Config/server_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Name, FileName:Config/server_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Address, FileName:Config/server_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:ServerName, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:GameName, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:ServerKey, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:LoginID, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Password, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:CharacterID, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:NickName, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:ServerName, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:GameName, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:ServerKey, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:LoginID, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:Password, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:CharacterID, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|ERROR|ChatLog|Not found column. Key:NickName, FileName:Config/login_user_info
+2021-03-23 19:31:34.4636|DEBUG|ChatLog|Update user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-23 19:31:53.2735|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:인덱스가 배열 범위를 벗어났습니다.
+2021-03-23 19:31:53.2735|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 19:32:07.6137|ERROR|ChatLog|Not found column. Key:ServerName, FileName:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv
+2021-03-23 19:32:07.6137|ERROR|ChatLog|Not found column. Key:ServerName, FileName:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv
+2021-03-23 19:32:07.6137|ERROR|ChatLog|Convert to int fail. Key:ServerName, Value:
+2021-03-23 19:32:07.7115|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:Error converting value "{" to type 'ClientForm.Scenario.ScenarioLimeGameUser'. Path '', line 1, position 3.
+2021-03-23 19:32:10.0667|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 19:32:49.4254|ERROR|ChatLog|Not found column. Key:ServerName, FileName:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv
+2021-03-23 19:32:49.4254|ERROR|ChatLog|Not found column. Key:ServerName, FileName:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv
+2021-03-23 19:32:49.4254|ERROR|ChatLog|Convert to int fail. Key:ServerName, Value:
+2021-03-23 19:32:59.1344|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:Error converting value "{" to type 'ClientForm.Scenario.ScenarioLimeGameUser'. Path '', line 1, position 3.
+2021-03-23 19:33:01.9863|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 19:33:14.6234|ERROR|ChatLog|Not found column. Key:ServerName, FileName:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv
+2021-03-23 19:33:14.6234|ERROR|ChatLog|Not found column. Key:ServerName, FileName:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv
+2021-03-23 19:33:14.6234|ERROR|ChatLog|Convert to int fail. Key:ServerName, Value:
+2021-03-23 19:33:51.0310|ERROR|ChatLog|Convert to int fail. Key:DetailType, Value:Login
+2021-03-23 19:34:22.6477|ERROR|ChatLog|Reader error File:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv, Message:Error converting value "{" to type 'ClientForm.Scenario.ScenarioLimeGameUser'. Path '', line 1, position 3.
+2021-03-23 19:34:22.6477|ERROR|ChatLog|ScenarioManager open file fail. Msg:load fail
+2021-03-23 19:34:27.0213|ERROR|ChatLog|Not found column. Key:ServerName, FileName:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv
+2021-03-23 19:34:27.0213|ERROR|ChatLog|Not found column. Key:ServerName, FileName:C:\Users\peopl\OneDrive\바탕 화면\Scenario\Login.csv
+2021-03-23 19:34:27.0213|ERROR|ChatLog|Convert to int fail. Key:ServerName, Value:
+2021-03-23 19:34:27.0552|ERROR|ChatLog|Convert to int fail. Key:DetailType, Value:Login

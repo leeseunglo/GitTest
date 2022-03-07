@@ -1,0 +1,217 @@
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\Core.dll
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\LimeGameUser.exe
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\websocket-sharp.dll
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\Core.pdb
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\Core.dll.config
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\LimeGameUser.pdb
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\LimeGameUser.exe.config
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\websocket-sharp.xml
+C:\Users\Roya\Desktop\ChatClient\ClientForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roya\Desktop\ChatClient\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+C:\Users\Roya\Desktop\ChatClient\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\Roya\Desktop\ChatClient\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\Roya\Desktop\ChatClient\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\Roya\Desktop\ChatClient\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+C:\Users\Roya\Desktop\ChatClient\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\Roya\Desktop\ChatClient\ClientForm\obj\Debug\ClientForm.pdb
+C:\Users\Roya\Desktop\ChatClient\ClientForm\obj\Debug\ClientForm.RoomForm.resources
+C:\Users\Roya\Desktop\ChatClient\ClientForm\obj\Debug\ClientForm.LimeGameForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\LimeGameUser.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\websocket-sharp.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\Core.dll.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\LimeGameUser.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\LimeGameUser.exe.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\bin\Debug\websocket-sharp.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\obj\Debug\ClientForm.LimeGameForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\obj\Debug\ClientForm.RoomForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\ClientForm\obj\Debug\ClientForm.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\LimeGameClient.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\NLog.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\NLog.Windows.Forms.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\websocket-sharp.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\Core.dll.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\LimeGameClient.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\LimeGameClient.exe.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\NLog.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\NLog.Windows.Forms.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\bin\Debug\websocket-sharp.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.LimeGameForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.RoomForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.ServerInfoForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\LimeGameClient.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\NLog.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\NLog.Windows.Forms.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\websocket-sharp.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\Core.dll.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\LimeGameClient.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\LimeGameClient.exe.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\NLog.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\NLog.Windows.Forms.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\bin\Debug\websocket-sharp.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.GameCodeForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.LimeGameChattingForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.LimeGameForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.ServerInfoForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.MainForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.RoomForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\ClientForm\obj\Debug\ClientForm.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.GameCodeForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.LimeGameChattingForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\ClientForm\obj\Debug\ClientForm.MainForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.LimeGameChatForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.MainForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.GameCodeForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.PrivateChatForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.ReportMessageForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.Scenario.ScenarioForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.Scenario.MessageForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.ServerInfoForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.UserManagementForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.UserStatusForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.ChatGroupForm.resources
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\LimeGameClient.exe
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\NLog.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\NLog.Windows.Forms.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\websocket-sharp.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\Core.dll.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\LimeGameClient.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\LimeGameClient.exe.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\NLog.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\NLog.Windows.Forms.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\bin\Debug\websocket-sharp.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\ClientForm.exe.config
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\ClientForm.exe
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\ClientForm.pdb
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\Core.dll
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\LimeGameClient.exe
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\Newtonsoft.Json.dll
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\NLog.dll
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\NLog.Windows.Forms.dll
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\websocket-sharp.dll
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\System.Net.Http.Formatting.dll
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\Core.pdb
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\Core.dll.config
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\LimeGameClient.pdb
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\LimeGameClient.exe.config
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\Newtonsoft.Json.xml
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\NLog.xml
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\NLog.Windows.Forms.xml
+D:\5. Code\ChatClient_210326\ClientForm\bin\Debug\websocket-sharp.xml
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.LimeGameChatForm.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.MainForm.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.GameCodeForm.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.PrivateChatForm.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.ReportMessageForm.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.Scenario.ScenarioForm.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.Scenario.MessageForm.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.ServerInfoForm.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.UserManagementForm.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.UserStatusForm.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.ChatGroupForm.resources
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.exe
+D:\5. Code\ChatClient_210326\ClientForm\obj\Debug\ClientForm.pdb
+D:\5. Code\ChatClient\ClientForm\bin\Debug\ClientForm.exe.config
+D:\5. Code\ChatClient\ClientForm\bin\Debug\ClientForm.exe
+D:\5. Code\ChatClient\ClientForm\bin\Debug\ClientForm.pdb
+D:\5. Code\ChatClient\ClientForm\bin\Debug\Core.dll
+D:\5. Code\ChatClient\ClientForm\bin\Debug\LimeGameClient.exe
+D:\5. Code\ChatClient\ClientForm\bin\Debug\Newtonsoft.Json.dll
+D:\5. Code\ChatClient\ClientForm\bin\Debug\NLog.dll
+D:\5. Code\ChatClient\ClientForm\bin\Debug\NLog.Windows.Forms.dll
+D:\5. Code\ChatClient\ClientForm\bin\Debug\websocket-sharp.dll
+D:\5. Code\ChatClient\ClientForm\bin\Debug\System.Net.Http.Formatting.dll
+D:\5. Code\ChatClient\ClientForm\bin\Debug\Core.pdb
+D:\5. Code\ChatClient\ClientForm\bin\Debug\Core.dll.config
+D:\5. Code\ChatClient\ClientForm\bin\Debug\LimeGameClient.pdb
+D:\5. Code\ChatClient\ClientForm\bin\Debug\LimeGameClient.exe.config
+D:\5. Code\ChatClient\ClientForm\bin\Debug\Newtonsoft.Json.xml
+D:\5. Code\ChatClient\ClientForm\bin\Debug\NLog.xml
+D:\5. Code\ChatClient\ClientForm\bin\Debug\NLog.Windows.Forms.xml
+D:\5. Code\ChatClient\ClientForm\bin\Debug\websocket-sharp.xml
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.LimeGameChatForm.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.MainForm.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.GameCodeForm.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.PrivateChatForm.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.ReportMessageForm.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.Scenario.ScenarioForm.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.Scenario.MessageForm.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.ServerInfoForm.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.UserManagementForm.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.UserStatusForm.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.ChatGroupForm.resources
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.exe
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.pdb
+D:\5. Code\ChatClient\ClientForm\obj\Debug\ClientForm.MainForm_New.resources

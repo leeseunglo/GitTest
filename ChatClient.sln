@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{C3BA23EC-0818-4D1F-A325-C38B26958EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientProtocol", "LimeGameClient\ClientProtocol.csproj", "{04D7D6D3-9CE0-43BA-8E18-58FBC3C252CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientForm", "ClientForm\ClientForm.csproj", "{CFCB7D0B-CD43-44E0-9D8A-7125EE688DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3BA23EC-0818-4D1F-A325-C38B26958EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BA23EC-0818-4D1F-A325-C38B26958EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BA23EC-0818-4D1F-A325-C38B26958EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BA23EC-0818-4D1F-A325-C38B26958EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D7D6D3-9CE0-43BA-8E18-58FBC3C252CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D7D6D3-9CE0-43BA-8E18-58FBC3C252CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D7D6D3-9CE0-43BA-8E18-58FBC3C252CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D7D6D3-9CE0-43BA-8E18-58FBC3C252CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCB7D0B-CD43-44E0-9D8A-7125EE688DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCB7D0B-CD43-44E0-9D8A-7125EE688DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCB7D0B-CD43-44E0-9D8A-7125EE688DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCB7D0B-CD43-44E0-9D8A-7125EE688DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DB09880-EE42-4A8C-8CCA-FDFEBFAC53F5}
+	EndGlobalSection
+EndGlobal

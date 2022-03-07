@@ -1,0 +1,98 @@
+2021-03-27 01:34:47.9914|INFO|ChatLog|Load template:
+2021-03-27 01:34:48.0049|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 01:34:48.0049|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 01:34:48.0049|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 01:35:00.4218|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"}}
+2021-03-27 02:08:18.9721|INFO|ChatLog|Load template:
+2021-03-27 02:08:18.9850|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:08:18.9850|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:08:18.9850|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:08:37.7338|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"}}
+2021-03-27 02:08:43.6829|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"gameMessageInfo":{"userName":"±Ê∏∂","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}}
+2021-03-27 02:08:54.2191|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"2"}}
+2021-03-27 02:09:01.7272|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"gameMessageInfo":{"userName":"≤Û¿◊","type":"PUBLISH","subType":"WORLD","content":"1234","bigContent":null,"attribute":null}}
+2021-03-27 02:09:20.1408|ERROR|ChatLog|
+
+==========================================================
+2021-03-27 02:09:21.1446|INFO|ChatLog|Load template:
+2021-03-27 02:09:21.1456|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:09:21.1456|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:09:21.1456|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:09:21.1456|DEBUG|ChatLog|System Msg >> lime001@lime.com, Connected successfully.
+2021-03-27 02:09:21.1940|DEBUG|ChatLog|Response >> ±Ê∏∂, LoginWithTokenResponse, {"mtalkToken":null,"characterId":null,"gameUserId":0,"subscriptionInfo":null,"gameRoomInfoList":null}
+2021-03-27 02:09:21.2189|ERROR|ChatLog|Send >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976712095","NickName":"±Ê∏∂"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":false}
+2021-03-27 02:09:22.2200|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"}}
+2021-03-27 02:09:22.2400|DEBUG|ChatLog|Response >> ±Ê∏∂, JoinRoomResponse, {"gameRoomInfo":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"gameCode":"l2m","name":"l2m.WORLD.1","memberCount":0,"dateCreated":0,"deleted":false,"gameRoomId":0},"gameUserId":0}
+2021-03-27 02:09:22.2400|ERROR|ChatLog|Send >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976712095","NickName":"±Ê∏∂"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":3,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"}},"Send":true,"Recv":false}
+2021-03-27 02:09:23.2416|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"gameMessageInfo":{"userName":"±Ê∏∂","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}}
+2021-03-27 02:09:23.2416|DEBUG|ChatLog|Response >> ±Ê∏∂, SendMessageResponse, {"guid":"637524077632416754"}
+2021-03-27 02:09:23.2416|ERROR|ChatLog|Send >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976712095","NickName":"±Ê∏∂"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"gameMessageInfo":{"userName":"±Ê∏∂","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":false}
+2021-03-27 02:09:23.2576|DEBUG|ChatLog|Response >> ±Ê∏∂, ServerNotiMessageResponse, {"receiverGameCode":null,"guid":"637524077632416754","seq":"0","gameUserId":"609000924585107562","roomId":"663437069515637037","playNcCharId":"281474976712095","userName":"±Ê∏∂","receiverCharacterId":null,"receiverUserName":null,"serverId":"1","receiverServerId":null,"alias":"19689E9A-206D-46B1-958E-8EC0592E1606","classId":"112010","className":"ø§∫Ï ≥™¿Ã∆Æ","hasCastle":false,"ranking":0,"gender":null,"type":"PUBLISH","subType":"WORLD","content":"123","attribute":null,"optional":null,"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"role":null,"isFromGame":false,"senderGameCode":null,"castleNo":0,"guildId":null}
+2021-03-27 02:09:24.2460|INFO|ChatLog|Load template:
+2021-03-27 02:09:24.2460|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:09:24.2460|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:09:24.2460|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:09:24.2460|DEBUG|ChatLog|System Msg >> lime002@lime.com, Connected successfully.
+2021-03-27 02:09:24.2460|DEBUG|ChatLog|Response >> ≤Û¿◊, LoginWithTokenResponse, {"mtalkToken":null,"characterId":null,"gameUserId":0,"subscriptionInfo":null,"gameRoomInfoList":null}
+2021-03-27 02:09:24.2460|ERROR|ChatLog|Send >> {"Num":4,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime002@lime.com","Password":"aaaa1111","CharacterID":"281474976711633","NickName":"≤Û¿◊"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":false}
+2021-03-27 02:09:25.2483|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"2"}}
+2021-03-27 02:09:25.2483|DEBUG|ChatLog|Response >> ≤Û¿◊, JoinRoomResponse, {"gameRoomInfo":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"2"},"gameCode":"l2m","name":"l2m.WORLD.2","memberCount":0,"dateCreated":0,"deleted":false,"gameRoomId":0},"gameUserId":0}
+2021-03-27 02:09:25.2483|ERROR|ChatLog|Send >> {"Num":5,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime002@lime.com","Password":"aaaa1111","CharacterID":"281474976711633","NickName":"≤Û¿◊"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":3,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"2"}},"Send":true,"Recv":false}
+2021-03-27 02:09:26.2498|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"gameMessageInfo":{"userName":"≤Û¿◊","type":"PUBLISH","subType":"WORLD","content":"1234","bigContent":null,"attribute":null}}
+2021-03-27 02:09:26.2498|DEBUG|ChatLog|Response >> ≤Û¿◊, SendMessageResponse, {"guid":"637524077662498205"}
+2021-03-27 02:09:26.2498|DEBUG|ChatLog|Response >> ±Ê∏∂, ServerNotiMessageResponse, {"receiverGameCode":null,"guid":"637524077662498205","seq":"0","gameUserId":"609000924585107562","roomId":"663437069515637037","playNcCharId":"281474976711633","userName":"≤Û¿◊","receiverCharacterId":null,"receiverUserName":null,"serverId":"1","receiverServerId":null,"alias":"19689E9A-206D-46B1-958E-8EC0592E1606","classId":"112010","className":"ø§∫Ï ≥™¿Ã∆Æ","hasCastle":false,"ranking":0,"gender":null,"type":"PUBLISH","subType":"WORLD","content":"1234","attribute":null,"optional":null,"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"role":null,"isFromGame":false,"senderGameCode":null,"castleNo":0,"guildId":null}
+2021-03-27 02:09:26.2498|ERROR|ChatLog|Send >> {"Num":6,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime002@lime.com","Password":"aaaa1111","CharacterID":"281474976711633","NickName":"≤Û¿◊"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"gameMessageInfo":{"userName":"≤Û¿◊","type":"PUBLISH","subType":"WORLD","content":"1234","bigContent":null,"attribute":null}},"Send":true,"Recv":false}
+2021-03-27 02:09:27.2523|ERROR|ChatLog|
+
+==========================================================
+2021-03-27 02:09:27.2523|ERROR|ChatLog|ScenarioCheck 0
+2021-03-27 02:09:27.2523|ERROR|ChatLog|Recv >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976712095","NickName":"±Ê∏∂"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":true}
+2021-03-27 02:09:28.2527|ERROR|ChatLog|ScenarioCheck 0
+2021-03-27 02:09:28.2547|ERROR|ChatLog|Recv >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976712095","NickName":"±Ê∏∂"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":3,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"}},"Send":true,"Recv":true}
+2021-03-27 02:09:29.2524|ERROR|ChatLog|ScenarioCheck 0
+2021-03-27 02:09:29.2524|ERROR|ChatLog|Recv >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976712095","NickName":"±Ê∏∂"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"gameMessageInfo":{"userName":"±Ê∏∂","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":true}
+2021-03-27 02:09:30.2525|ERROR|ChatLog|ScenarioCheck 0
+2021-03-27 02:09:30.2525|ERROR|ChatLog|Recv >> {"Num":4,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime002@lime.com","Password":"aaaa1111","CharacterID":"281474976711633","NickName":"≤Û¿◊"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":true}
+2021-03-27 02:09:31.2524|ERROR|ChatLog|ScenarioCheck 0
+2021-03-27 02:09:31.2524|ERROR|ChatLog|Recv >> {"Num":5,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime002@lime.com","Password":"aaaa1111","CharacterID":"281474976711633","NickName":"≤Û¿◊"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":3,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"2"}},"Send":true,"Recv":true}
+2021-03-27 02:09:32.2523|ERROR|ChatLog|ScenarioCheck 0
+2021-03-27 02:09:33.2532|ERROR|ChatLog|ScenarioCheck 1
+2021-03-27 02:09:34.2531|ERROR|ChatLog|ScenarioCheck 2
+2021-03-27 02:09:35.2531|ERROR|ChatLog|ScenarioCheck 3
+2021-03-27 02:09:36.2533|ERROR|ChatLog|ScenarioCheck 4
+2021-03-27 02:09:36.2533|ERROR|ChatLog|Recv >> {"Num":6,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime002@lime.com","Password":"aaaa1111","CharacterID":"281474976711633","NickName":"≤Û¿◊"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"gameMessageInfo":{"userName":"≤Û¿◊","type":"PUBLISH","subType":"WORLD","content":"1234","bigContent":null,"attribute":null}},"Send":true,"Recv":false}
+2021-03-27 02:09:37.2529|ERROR|ChatLog|ScenarioCheck 0
+2021-03-27 02:09:38.2526|ERROR|ChatLog|ScenarioCheck 1
+2021-03-27 02:09:39.2525|ERROR|ChatLog|ScenarioCheck 2
+2021-03-27 02:09:40.2531|ERROR|ChatLog|ScenarioCheck 3
+2021-03-27 02:09:41.2526|ERROR|ChatLog|ScenarioCheck 4
+2021-03-27 02:09:41.2526|ERROR|ChatLog|Recv >> {"Num":7,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M(SB)","ServerKey":"1","LoginID":"lime002@lime.com","Password":"aaaa1111","CharacterID":"281474976711633","NickName":"≤Û¿◊"},"GameCode":{"Name":"Lineage2M(SB)","Code":"l2mrelease"}},"DetailType":6,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"2"},"content":"123"},"Send":true,"Recv":false}
+2021-03-27 02:10:13.6851|INFO|ChatLog|Save Scenario Info
+2021-03-27 02:12:36.1917|INFO|ChatLog|Load template:
+2021-03-27 02:12:36.2037|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:12:36.2037|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:12:36.2037|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:14:06.1388|INFO|ChatLog|Load template:
+2021-03-27 02:14:06.1576|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:14:06.1576|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:14:06.1576|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:39:25.8503|INFO|ChatLog|Load template:
+2021-03-27 02:39:25.8892|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:39:25.8892|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:39:25.8892|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:39:30.8067|ERROR|ChatLog|SetScenarioItemData fail. Msg:already user login push
+2021-03-27 02:39:30.8067|ERROR|ChatLog|SetScenarioItemData fail. Msg:already user login push
+2021-03-27 02:49:29.0334|INFO|ChatLog|Load template:
+2021-03-27 02:49:29.0464|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:49:29.0464|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:49:29.0464|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:49:58.4942|INFO|ChatLog|Load template:
+2021-03-27 02:49:58.5092|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:49:58.5092|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:49:58.5092|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 02:53:45.2805|ERROR|ChatLog|Scenario push fail. Msg:not login action user
+2021-03-27 03:15:06.8269|INFO|ChatLog|Load template:
+2021-03-27 03:15:06.8439|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 03:15:06.8439|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 03:15:06.8439|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-27 03:15:21.5501|ERROR|ChatLog|GetGameRoomKeyInfo. not found game room key info. GameRoomKey:√§∆√ ∑Î¿ª º±≈√«ÿ ¡÷ººø‰.

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CFCB7D0B-CD43-44E0-9D8A-7125EE688DCF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ClientForm</RootNamespace>
+    <AssemblyName>ClientForm</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.7.6\lib\net45\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.Windows.Forms.4.3.0\lib\net35\NLog.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client\Data\JoinedGameRoomInfo.cs" />
+    <Compile Include="Client\IGameUser.cs" />
+    <Compile Include="Client\Data\LimeGameUserKey.cs" />
+    <Compile Include="Client\Data\LimeGameRoomKey.cs" />
+    <Compile Include="Client\LimeGameClient\Request.cs" />
+    <Compile Include="Client\LimeGameClient\Response.cs" />
+    <Compile Include="Client\LimeGameClient\LimeGameClient.cs" />
+    <Compile Include="Client\LimeGameScenarioClient\Response.cs" />
+    <Compile Include="Client\LimeGameScenarioClient\Request.cs" />
+    <Compile Include="Client\LimeGameScenarioClient\LimeGameScenarioClient.cs" />
+    <Compile Include="Common\Enum.cs" />
+    <Compile Include="Common\Helper.cs" />
+    <Compile Include="Common\MessageInfo.cs" />
+    <Compile Include="Config\ConfigData.cs" />
+    <Compile Include="Config\Manager\AbstractManager.cs" />
+    <Compile Include="Config\Manager\IConfigData.cs" />
+    <Compile Include="Config\Manager\GameCodeManager.cs" />
+    <Compile Include="Config\Manager\LoginUserManager.cs" />
+    <Compile Include="Config\Manager\ServerInfoManager.cs" />
+    <Compile Include="Extension\ConvertExtension.cs" />
+    <Compile Include="Forms\ChatForm\LimeGameChatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ChatForm\LimeGameChatForm.Designer.cs">
+      <DependentUpon>LimeGameChatForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\IMainForm.cs" />
+    <Compile Include="Forms\MainForm_New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm_New.Designer.cs">
+      <DependentUpon>MainForm_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Popup\GameCodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Popup\GameCodeForm.Designer.cs">
+      <DependentUpon>GameCodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Popup\PrivateChatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Popup\PrivateChatForm.Designer.cs">
+      <DependentUpon>PrivateChatForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Popup\ChatGroupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Popup\ChatGroupForm.Designer.cs">
+      <DependentUpon>ChatGroupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Popup\ReportMessageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Popup\ReportMessageForm.Designer.cs">
+      <DependentUpon>ReportMessageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Scenario\ScenarioActionInfo.cs" />
+    <Compile Include="Forms\Scenario\ScenarioManager-ReadWrite.cs" />
+    <Compile Include="Forms\Scenario\ScenarioManager-Check.cs" />
+    <Compile Include="Forms\Scenario\ScenarioManager.cs" />
+    <Compile Include="Forms\Scenario\ScenarioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Scenario\ScenarioForm.Designer.cs">
+      <DependentUpon>ScenarioForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Scenario\MessageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Scenario\MessageForm.Designer.cs">
+      <DependentUpon>MessageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Popup\ServerInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Popup\ServerInfoForm.Designer.cs">
+      <DependentUpon>ServerInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Popup\UserManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Popup\UserManagementForm.Designer.cs">
+      <DependentUpon>UserManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Popup\UserStatusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Popup\UserStatusForm.Designer.cs">
+      <DependentUpon>UserStatusForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\ChatForm\LimeGameChatForm.resx">
+      <DependentUpon>LimeGameChatForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm_New.resx">
+      <DependentUpon>MainForm_New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Popup\GameCodeForm.resx">
+      <DependentUpon>GameCodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Popup\PrivateChatForm.resx">
+      <DependentUpon>PrivateChatForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Popup\ReportMessageForm.resx">
+      <DependentUpon>ReportMessageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Scenario\ScenarioForm.resx">
+      <DependentUpon>ScenarioForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Scenario\MessageForm.resx">
+      <DependentUpon>MessageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Popup\ServerInfoForm.resx">
+      <DependentUpon>ServerInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Popup\UserManagementForm.resx">
+      <DependentUpon>UserManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Popup\UserStatusForm.resx">
+      <DependentUpon>UserStatusForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\Popup\ChatGroupForm.resx">
+      <DependentUpon>ChatGroupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{c3ba23ec-0818-4d1f-a325-c38b26958ebf}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LimeGameClient\ClientProtocol.csproj">
+      <Project>{04d7d6d3-9ce0-43ba-8e18-58fbc3c252cf}</Project>
+      <Name>ClientProtocol</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

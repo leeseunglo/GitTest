@@ -1,0 +1,183 @@
+2021-03-24 21:44:53.1978|INFO|ChatLog|Load template:
+2021-03-24 21:44:53.2177|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:44:53.2177|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:45:03.4097|ERROR|ChatLog|
+
+==========================================================
+2021-03-24 21:45:04.4142|INFO|ChatLog|Load template:
+2021-03-24 21:45:04.4142|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:45:04.4142|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:45:04.4142|DEBUG|ChatLog|System Msg >> lime001@lime.com, Connected successfully.
+2021-03-24 21:45:04.4521|DEBUG|ChatLog|Response >> roya, LoginWithTokenResponse, {"mtalkToken":null,"characterId":null,"gameUserId":0,"subscriptionInfo":null,"gameRoomInfoList":null}
+2021-03-24 21:45:04.4591|ERROR|ChatLog|Send >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":false}
+2021-03-24 21:45:05.4605|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}}
+2021-03-24 21:45:05.4814|DEBUG|ChatLog|Response >> roya, CreateRoomResponse, {"gameRoomInfo":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameCode":"l2m","name":"l2m.WORLD.1","memberCount":0,"dateCreated":0,"deleted":false,"gameRoomId":0},"gameUserId":0}
+2021-03-24 21:45:05.4814|ERROR|ChatLog|Send >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":2,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}},"Send":true,"Recv":false}
+2021-03-24 21:45:06.4826|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}}
+2021-03-24 21:45:06.4826|DEBUG|ChatLog|Response >> roya, SendMessageResponse, {"guid":"637522191064836591"}
+2021-03-24 21:45:06.4826|ERROR|ChatLog|Send >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":false}
+2021-03-24 21:45:06.4965|DEBUG|ChatLog|Response >> roya, ServerNotiMessageResponse, {"receiverGameCode":null,"guid":"637522191064836591","seq":"0","gameUserId":"609000924585107562","roomId":"663437069515637037","playNcCharId":"281474976711572","userName":"roya","receiverCharacterId":null,"receiverUserName":null,"serverId":"1","receiverServerId":null,"alias":"19689E9A-206D-46B1-958E-8EC0592E1606","classId":"112010","className":"¿¤ºì ³ªÀÌÆ®","hasCastle":false,"ranking":0,"gender":null,"type":"PUBLISH","subType":"WORLD","content":"123","attribute":null,"optional":null,"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"role":null,"isFromGame":false,"senderGameCode":null,"castleNo":0,"guildId":null}
+2021-03-24 21:45:08.4869|ERROR|ChatLog|
+
+==========================================================
+2021-03-24 21:45:08.4869|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:45:08.4869|ERROR|ChatLog|Recv >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":true}
+2021-03-24 21:45:09.4872|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:45:09.4872|ERROR|ChatLog|Recv >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":2,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}},"Send":true,"Recv":true}
+2021-03-24 21:45:10.4875|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:45:10.4875|ERROR|ChatLog|Recv >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":true}
+2021-03-24 21:45:11.4878|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:45:11.4878|ERROR|ChatLog|Recv >> {"Num":4,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":6,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"content":"123"},"Send":true,"Recv":true}
+2021-03-24 21:45:12.4877|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:45:13.4876|ERROR|ChatLog|ScenarioCheck 1
+2021-03-24 21:45:14.4869|ERROR|ChatLog|ScenarioCheck 2
+2021-03-24 21:45:15.4872|ERROR|ChatLog|ScenarioCheck 3
+2021-03-24 21:45:16.4871|ERROR|ChatLog|ScenarioCheck 4
+2021-03-24 21:45:16.4871|ERROR|ChatLog|Recv >> {"Num":5,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":7,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"content":"4"},"Send":true,"Recv":true}
+2021-03-24 21:47:00.9664|ERROR|ChatLog|
+
+==========================================================
+2021-03-24 21:47:01.9683|INFO|ChatLog|Load template:
+2021-03-24 21:47:01.9683|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:47:01.9683|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:47:01.9683|DEBUG|ChatLog|System Msg >> lime001@lime.com, Connected successfully.
+2021-03-24 21:47:01.9683|DEBUG|ChatLog|Response >> roya, LoginWithTokenResponse, {"mtalkToken":null,"characterId":null,"gameUserId":0,"subscriptionInfo":null,"gameRoomInfoList":null}
+2021-03-24 21:47:01.9683|ERROR|ChatLog|Send >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":false}
+2021-03-24 21:47:02.9711|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}}
+2021-03-24 21:47:02.9711|DEBUG|ChatLog|Response >> roya, CreateRoomResponse, {"gameRoomInfo":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameCode":"l2m","name":"l2m.WORLD.1","memberCount":0,"dateCreated":0,"deleted":false,"gameRoomId":0},"gameUserId":0}
+2021-03-24 21:47:02.9711|ERROR|ChatLog|Send >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":2,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}},"Send":true,"Recv":false}
+2021-03-24 21:47:03.9718|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}}
+2021-03-24 21:47:03.9718|DEBUG|ChatLog|Response >> roya, SendMessageResponse, {"guid":"637522192239718555"}
+2021-03-24 21:47:03.9718|DEBUG|ChatLog|Response >> roya, ServerNotiMessageResponse, {"receiverGameCode":null,"guid":"637522192239718555","seq":"0","gameUserId":"609000924585107562","roomId":"663437069515637037","playNcCharId":"281474976711572","userName":"roya","receiverCharacterId":null,"receiverUserName":null,"serverId":"1","receiverServerId":null,"alias":"19689E9A-206D-46B1-958E-8EC0592E1606","classId":"112010","className":"¿¤ºì ³ªÀÌÆ®","hasCastle":false,"ranking":0,"gender":null,"type":"PUBLISH","subType":"WORLD","content":"123","attribute":null,"optional":null,"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"role":null,"isFromGame":false,"senderGameCode":null,"castleNo":0,"guildId":null}
+2021-03-24 21:47:03.9718|ERROR|ChatLog|Send >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":false}
+2021-03-24 21:47:05.9760|ERROR|ChatLog|
+
+==========================================================
+2021-03-24 21:47:05.9760|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:47:05.9760|ERROR|ChatLog|Recv >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":true}
+2021-03-24 21:47:06.9759|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:47:06.9759|ERROR|ChatLog|Recv >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":2,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}},"Send":true,"Recv":true}
+2021-03-24 21:47:07.9758|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:47:07.9758|ERROR|ChatLog|Recv >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":true}
+2021-03-24 21:47:08.9756|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:47:08.9756|ERROR|ChatLog|Recv >> {"Num":4,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":6,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"content":"123"},"Send":true,"Recv":true}
+2021-03-24 21:47:09.9759|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:47:10.9751|ERROR|ChatLog|ScenarioCheck 1
+2021-03-24 21:47:11.9755|ERROR|ChatLog|ScenarioCheck 2
+2021-03-24 21:47:12.9758|ERROR|ChatLog|ScenarioCheck 3
+2021-03-24 21:47:13.9756|ERROR|ChatLog|ScenarioCheck 4
+2021-03-24 21:47:13.9756|ERROR|ChatLog|Recv >> {"Num":5,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":7,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"content":"4"},"Send":true,"Recv":true}
+2021-03-24 21:48:23.0947|ERROR|ChatLog|
+
+==========================================================
+2021-03-24 21:48:24.0972|INFO|ChatLog|Load template:
+2021-03-24 21:48:24.0982|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:48:24.0982|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:48:24.0982|DEBUG|ChatLog|System Msg >> lime001@lime.com, Connected successfully.
+2021-03-24 21:48:24.0982|DEBUG|ChatLog|Response >> roya, LoginWithTokenResponse, {"mtalkToken":null,"characterId":null,"gameUserId":0,"subscriptionInfo":null,"gameRoomInfoList":null}
+2021-03-24 21:48:24.0982|ERROR|ChatLog|Send >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":false}
+2021-03-24 21:48:25.0990|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}}
+2021-03-24 21:48:25.0990|DEBUG|ChatLog|Response >> roya, CreateRoomResponse, {"gameRoomInfo":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameCode":"l2m","name":"l2m.WORLD.1","memberCount":0,"dateCreated":0,"deleted":false,"gameRoomId":0},"gameUserId":0}
+2021-03-24 21:48:25.0990|ERROR|ChatLog|Send >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":2,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}},"Send":true,"Recv":false}
+2021-03-24 21:48:26.1000|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}}
+2021-03-24 21:48:26.1000|DEBUG|ChatLog|Response >> roya, SendMessageResponse, {"guid":"637522193061000441"}
+2021-03-24 21:48:26.1000|DEBUG|ChatLog|Response >> roya, ServerNotiMessageResponse, {"receiverGameCode":null,"guid":"637522193061000441","seq":"0","gameUserId":"609000924585107562","roomId":"663437069515637037","playNcCharId":"281474976711572","userName":"roya","receiverCharacterId":null,"receiverUserName":null,"serverId":"1","receiverServerId":null,"alias":"19689E9A-206D-46B1-958E-8EC0592E1606","classId":"112010","className":"¿¤ºì ³ªÀÌÆ®","hasCastle":false,"ranking":0,"gender":null,"type":"PUBLISH","subType":"WORLD","content":"123","attribute":null,"optional":null,"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"role":null,"isFromGame":false,"senderGameCode":null,"castleNo":0,"guildId":null}
+2021-03-24 21:48:26.1000|ERROR|ChatLog|Send >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":false}
+2021-03-24 21:48:28.1043|ERROR|ChatLog|
+
+==========================================================
+2021-03-24 21:48:28.1043|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:48:28.1043|ERROR|ChatLog|Recv >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":true}
+2021-03-24 21:48:29.1040|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:48:29.1040|ERROR|ChatLog|Recv >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":2,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}},"Send":true,"Recv":true}
+2021-03-24 21:48:30.1037|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:48:30.1037|ERROR|ChatLog|Recv >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":true}
+2021-03-24 21:48:31.1042|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:48:31.1042|ERROR|ChatLog|Recv >> {"Num":4,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":6,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"content":"123"},"Send":true,"Recv":true}
+2021-03-24 21:48:32.1039|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:48:33.1037|ERROR|ChatLog|ScenarioCheck 1
+2021-03-24 21:48:34.1039|ERROR|ChatLog|ScenarioCheck 2
+2021-03-24 21:48:35.1037|ERROR|ChatLog|ScenarioCheck 3
+2021-03-24 21:48:36.1035|ERROR|ChatLog|ScenarioCheck 4
+2021-03-24 21:48:37.1037|ERROR|ChatLog|ScenarioCheck 5
+2021-03-24 21:48:38.1036|ERROR|ChatLog|ScenarioCheck 6
+2021-03-24 21:48:39.1039|ERROR|ChatLog|ScenarioCheck 7
+2021-03-24 21:48:40.1043|ERROR|ChatLog|ScenarioCheck 8
+2021-03-24 21:48:41.1036|ERROR|ChatLog|ScenarioCheck 9
+2021-03-24 21:48:41.1036|ERROR|ChatLog|Recv >> {"Num":5,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":7,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"content":"4"},"Send":true,"Recv":true}
+2021-03-24 21:49:20.5817|ERROR|ChatLog|
+
+==========================================================
+2021-03-24 21:49:21.5846|INFO|ChatLog|Load template:
+2021-03-24 21:49:21.5846|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:49:21.5846|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:49:21.5846|DEBUG|ChatLog|System Msg >> lime001@lime.com, Connected successfully.
+2021-03-24 21:49:21.5846|DEBUG|ChatLog|Response >> roya, LoginWithTokenResponse, {"mtalkToken":null,"characterId":null,"gameUserId":0,"subscriptionInfo":null,"gameRoomInfoList":null}
+2021-03-24 21:49:21.5846|ERROR|ChatLog|Send >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":false}
+2021-03-24 21:49:22.5871|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}}
+2021-03-24 21:49:22.5871|DEBUG|ChatLog|Response >> roya, CreateRoomResponse, {"gameRoomInfo":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameCode":"l2m","name":"l2m.WORLD.1","memberCount":0,"dateCreated":0,"deleted":false,"gameRoomId":0},"gameUserId":0}
+2021-03-24 21:49:22.5871|ERROR|ChatLog|Send >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":2,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}},"Send":true,"Recv":false}
+2021-03-24 21:49:23.5880|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}}
+2021-03-24 21:49:23.5880|DEBUG|ChatLog|Response >> roya, SendMessageResponse, {"guid":"637522193635880388"}
+2021-03-24 21:49:25.7589|ERROR|ChatLog|Send >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":false}
+2021-03-24 21:49:26.9343|DEBUG|ChatLog|Response >> roya, ServerNotiMessageResponse, {"receiverGameCode":null,"guid":"637522193635880388","seq":"0","gameUserId":"609000924585107562","roomId":"663437069515637037","playNcCharId":"281474976711572","userName":"roya","receiverCharacterId":null,"receiverUserName":null,"serverId":"1","receiverServerId":null,"alias":"19689E9A-206D-46B1-958E-8EC0592E1606","classId":"112010","className":"¿¤ºì ³ªÀÌÆ®","hasCastle":false,"ranking":0,"gender":null,"type":"PUBLISH","subType":"WORLD","content":"123","attribute":null,"optional":null,"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"role":null,"isFromGame":false,"senderGameCode":null,"castleNo":0,"guildId":null}
+2021-03-24 21:49:29.5729|ERROR|ChatLog|
+
+==========================================================
+2021-03-24 21:49:29.5729|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:49:29.5729|ERROR|ChatLog|Recv >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":true}
+2021-03-24 21:49:30.5733|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:49:30.5733|ERROR|ChatLog|Recv >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":2,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}},"Send":true,"Recv":true}
+2021-03-24 21:49:31.5730|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:49:31.5730|ERROR|ChatLog|Recv >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":true}
+2021-03-24 21:49:32.5730|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:49:32.5730|ERROR|ChatLog|Recv >> {"Num":4,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":6,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"content":"123"},"Send":true,"Recv":true}
+2021-03-24 21:49:33.5726|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:49:34.5725|ERROR|ChatLog|ScenarioCheck 1
+2021-03-24 21:49:35.5728|ERROR|ChatLog|ScenarioCheck 2
+2021-03-24 21:49:36.5732|ERROR|ChatLog|ScenarioCheck 3
+2021-03-24 21:49:37.5728|ERROR|ChatLog|ScenarioCheck 4
+2021-03-24 21:49:38.5731|ERROR|ChatLog|ScenarioCheck 5
+2021-03-24 21:49:39.5733|ERROR|ChatLog|ScenarioCheck 6
+2021-03-24 21:49:40.5727|ERROR|ChatLog|ScenarioCheck 7
+2021-03-24 21:49:41.5731|ERROR|ChatLog|ScenarioCheck 8
+2021-03-24 21:49:42.5730|ERROR|ChatLog|ScenarioCheck 9
+2021-03-24 21:49:42.5730|ERROR|ChatLog|Recv >> {"Num":5,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":7,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"content":"4"},"Send":true,"Recv":true}
+2021-03-24 21:50:16.0953|ERROR|ChatLog|
+
+==========================================================
+2021-03-24 21:50:17.0981|INFO|ChatLog|Load template:
+2021-03-24 21:50:17.0981|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:50:17.0981|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-24 21:50:17.0981|DEBUG|ChatLog|System Msg >> lime001@lime.com, Connected successfully.
+2021-03-24 21:50:17.0981|DEBUG|ChatLog|Response >> roya, LoginWithTokenResponse, {"mtalkToken":null,"characterId":null,"gameUserId":0,"subscriptionInfo":null,"gameRoomInfoList":null}
+2021-03-24 21:50:17.0991|ERROR|ChatLog|Send >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":false}
+2021-03-24 21:50:18.0993|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}}
+2021-03-24 21:50:18.0993|DEBUG|ChatLog|Response >> roya, CreateRoomResponse, {"gameRoomInfo":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameCode":"l2m","name":"l2m.WORLD.1","memberCount":0,"dateCreated":0,"deleted":false,"gameRoomId":0},"gameUserId":0}
+2021-03-24 21:50:18.0993|ERROR|ChatLog|Send >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":2,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}},"Send":true,"Recv":false}
+2021-03-24 21:50:19.1013|DEBUG|ChatLog|Request >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}}
+2021-03-24 21:50:19.1013|DEBUG|ChatLog|Response >> roya, SendMessageResponse, {"guid":"637522194191013956"}
+2021-03-24 21:50:21.0795|ERROR|ChatLog|Send >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":false}
+2021-03-24 21:50:21.0795|DEBUG|ChatLog|Response >> roya, ServerNotiMessageResponse, {"receiverGameCode":null,"guid":"637522194191013956","seq":"0","gameUserId":"609000924585107562","roomId":"663437069515637037","playNcCharId":"281474976711572","userName":"roya","receiverCharacterId":null,"receiverUserName":null,"serverId":"1","receiverServerId":null,"alias":"19689E9A-206D-46B1-958E-8EC0592E1606","classId":"112010","className":"¿¤ºì ³ªÀÌÆ®","hasCastle":false,"ranking":0,"gender":null,"type":"PUBLISH","subType":"WORLD","content":"123","attribute":null,"optional":null,"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"role":null,"isFromGame":false,"senderGameCode":null,"castleNo":0,"guildId":null}
+2021-03-24 21:50:23.0816|ERROR|ChatLog|
+
+==========================================================
+2021-03-24 21:50:25.6779|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:50:27.6286|ERROR|ChatLog|Recv >> {"Num":1,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":1,"ActionData":null,"Send":true,"Recv":true}
+2021-03-24 21:50:31.4127|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:50:31.4127|ERROR|ChatLog|Recv >> {"Num":2,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":2,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"}},"Send":true,"Recv":true}
+2021-03-24 21:50:32.4125|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:50:32.4125|ERROR|ChatLog|Recv >> {"Num":3,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":5,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"gameMessageInfo":{"userName":"roya","type":"PUBLISH","subType":"WORLD","content":"123","bigContent":null,"attribute":null}},"Send":true,"Recv":true}
+2021-03-24 21:50:33.4131|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:51:06.4264|ERROR|ChatLog|Recv >> {"Num":4,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":6,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"content":"123"},"Send":true,"Recv":true}
+2021-03-24 21:51:25.5773|ERROR|ChatLog|ScenarioCheck 0
+2021-03-24 21:51:26.5771|ERROR|ChatLog|ScenarioCheck 1
+2021-03-24 21:51:27.5775|ERROR|ChatLog|ScenarioCheck 2
+2021-03-24 21:51:28.5775|ERROR|ChatLog|ScenarioCheck 3
+2021-03-24 21:51:29.5774|ERROR|ChatLog|ScenarioCheck 4
+2021-03-24 21:51:30.5770|ERROR|ChatLog|ScenarioCheck 5
+2021-03-24 21:51:31.5775|ERROR|ChatLog|ScenarioCheck 6
+2021-03-24 21:51:32.5776|ERROR|ChatLog|ScenarioCheck 7
+2021-03-24 21:51:33.5776|ERROR|ChatLog|ScenarioCheck 8
+2021-03-24 21:51:34.5770|ERROR|ChatLog|ScenarioCheck 9
+2021-03-24 21:51:34.5770|ERROR|ChatLog|Recv >> {"Num":5,"UserInfo":{"UserInfo":{"ServerName":"SB-Game","GameName":"Lineage2M","ServerKey":"1","LoginID":"lime001@lime.com","Password":"aaaa1111","CharacterID":"281474976711572","NickName":"roya"},"GameCode":{"Name":"Lineage2M","Code":"l2m"}},"DetailType":7,"ActionData":{"gameRoomKeyInfo":{"type":"WORLD","serverKey":"2","roomKey":"1"},"content":"4"},"Send":true,"Recv":true}

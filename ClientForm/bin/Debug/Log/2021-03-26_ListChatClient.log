@@ -1,0 +1,17 @@
+2021-03-26 17:53:29.6200|INFO|ChatLog|Load template:
+2021-03-26 17:53:29.6609|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-26 17:53:29.6609|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-26 17:53:29.6609|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-26 18:03:03.1088|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"}}
+2021-03-26 18:03:20.7649|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"2"}}
+2021-03-26 18:05:10.0328|INFO|ChatLog|Load template:
+2021-03-26 18:05:10.0468|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-26 18:05:10.0468|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-26 18:05:10.0468|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-26 18:05:21.0567|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"}}
+2021-03-26 18:05:28.2427|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"},"gameMessageInfo":{"userName":"´Ü°Ë¿¤ÇÁ","type":"PUBLISH","subType":"WORLD","content":"333","bigContent":null,"attribute":null}}
+2021-03-26 18:05:38.8361|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"2"}}
+2021-03-26 23:42:00.7905|INFO|ChatLog|Load template:
+2021-03-26 23:42:00.8214|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-26 23:42:00.8214|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-26 23:42:00.8214|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo

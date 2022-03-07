@@ -1,0 +1,120 @@
+C:\Users\Roya\Desktop\ChattingClient\ChatClient\Core\bin\Debug\Core.dll.config
+C:\Users\Roya\Desktop\ChattingClient\ChatClient\Core\bin\Debug\Core.dll
+C:\Users\Roya\Desktop\ChattingClient\ChatClient\Core\bin\Debug\Core.pdb
+C:\Users\Roya\Desktop\ChattingClient\ChatClient\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roya\Desktop\ChattingClient\ChatClient\Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Roya\Desktop\ChattingClient\ChatClient\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roya\Desktop\ChattingClient\ChatClient\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Roya\Desktop\ChattingClient\ChatClient\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Roya\Desktop\ChattingClient\ChatClient\Core\obj\Debug\Core.dll
+C:\Users\Roya\Desktop\ChattingClient\ChatClient\Core\obj\Debug\Core.pdb
+C:\MTalk\ChattingClient\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\MTalk\ChattingClient\Core\bin\Debug\Core.dll.config
+C:\MTalk\ChattingClient\Core\bin\Debug\Core.dll
+C:\MTalk\ChattingClient\Core\bin\Debug\Core.pdb
+C:\MTalk\ChattingClient\Core\bin\Debug\Newtonsoft.Json.dll
+C:\MTalk\ChattingClient\Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\MTalk\ChattingClient\Core\bin\Debug\websocket-sharp.dll
+C:\MTalk\ChattingClient\Core\bin\Debug\Newtonsoft.Json.xml
+C:\MTalk\ChattingClient\Core\bin\Debug\websocket-sharp.xml
+C:\MTalk\ChattingClient\Core\obj\Debug\Core.csproj.CopyComplete
+C:\MTalk\ChattingClient\Core\obj\Debug\Core.dll
+C:\MTalk\ChattingClient\Core\obj\Debug\Core.pdb
+C:\Users\Roya\Desktop\ChatClient\Core\bin\Debug\Core.dll.config
+C:\Users\Roya\Desktop\ChatClient\Core\bin\Debug\Core.dll
+C:\Users\Roya\Desktop\ChatClient\Core\bin\Debug\Core.pdb
+C:\Users\Roya\Desktop\ChatClient\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roya\Desktop\ChatClient\Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Roya\Desktop\ChatClient\Core\bin\Debug\websocket-sharp.dll
+C:\Users\Roya\Desktop\ChatClient\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roya\Desktop\ChatClient\Core\bin\Debug\websocket-sharp.xml
+C:\Users\Roya\Desktop\ChatClient\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Roya\Desktop\ChatClient\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Roya\Desktop\ChatClient\Core\obj\Debug\Core.dll
+C:\Users\Roya\Desktop\ChatClient\Core\obj\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\bin\Debug\Core.dll.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\bin\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\bin\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\bin\Debug\websocket-sharp.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\bin\Debug\websocket-sharp.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\obj\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\obj\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_201210\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\bin\Debug\Core.dll.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\bin\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\bin\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\bin\Debug\NLog.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\bin\Debug\websocket-sharp.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\bin\Debug\NLog.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\bin\Debug\websocket-sharp.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\obj\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\obj\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\obj\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\obj\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\bin\Debug\Core.dll.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\bin\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\bin\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\bin\Debug\NLog.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\bin\Debug\websocket-sharp.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\bin\Debug\NLog.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\bin\Debug\websocket-sharp.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_20122214\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\bin\Debug\Core.dll.config
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\bin\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\bin\Debug\Core.pdb
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\bin\Debug\NLog.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\bin\Debug\websocket-sharp.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\bin\Debug\NLog.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\bin\Debug\websocket-sharp.xml
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\obj\Debug\Core.dll
+C:\Users\roya.NC-KOREA\Desktop\ChatClient\ChatClient_210325\Core\obj\Debug\Core.pdb
+D:\5. Code\ChatClient_210326\Core\bin\Debug\Core.dll.config
+D:\5. Code\ChatClient_210326\Core\bin\Debug\Core.dll
+D:\5. Code\ChatClient_210326\Core\bin\Debug\Core.pdb
+D:\5. Code\ChatClient_210326\Core\bin\Debug\Newtonsoft.Json.dll
+D:\5. Code\ChatClient_210326\Core\bin\Debug\NLog.dll
+D:\5. Code\ChatClient_210326\Core\bin\Debug\System.Net.Http.Formatting.dll
+D:\5. Code\ChatClient_210326\Core\bin\Debug\websocket-sharp.dll
+D:\5. Code\ChatClient_210326\Core\bin\Debug\Newtonsoft.Json.xml
+D:\5. Code\ChatClient_210326\Core\bin\Debug\NLog.xml
+D:\5. Code\ChatClient_210326\Core\bin\Debug\websocket-sharp.xml
+D:\5. Code\ChatClient_210326\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\5. Code\ChatClient_210326\Core\obj\Debug\Core.csproj.CopyComplete
+D:\5. Code\ChatClient_210326\Core\obj\Debug\Core.dll
+D:\5. Code\ChatClient_210326\Core\obj\Debug\Core.pdb
+D:\5. Code\ChatClient_210326\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\5. Code\ChatClient\Core\bin\Debug\Core.dll.config
+D:\5. Code\ChatClient\Core\bin\Debug\Core.dll
+D:\5. Code\ChatClient\Core\bin\Debug\Core.pdb
+D:\5. Code\ChatClient\Core\bin\Debug\Newtonsoft.Json.dll
+D:\5. Code\ChatClient\Core\bin\Debug\NLog.dll
+D:\5. Code\ChatClient\Core\bin\Debug\System.Net.Http.Formatting.dll
+D:\5. Code\ChatClient\Core\bin\Debug\websocket-sharp.dll
+D:\5. Code\ChatClient\Core\bin\Debug\Newtonsoft.Json.xml
+D:\5. Code\ChatClient\Core\bin\Debug\NLog.xml
+D:\5. Code\ChatClient\Core\bin\Debug\websocket-sharp.xml
+D:\5. Code\ChatClient\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\5. Code\ChatClient\Core\obj\Debug\Core.csproj.CopyComplete
+D:\5. Code\ChatClient\Core\obj\Debug\Core.dll
+D:\5. Code\ChatClient\Core\obj\Debug\Core.pdb

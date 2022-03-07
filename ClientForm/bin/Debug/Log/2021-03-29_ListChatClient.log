@@ -1,0 +1,54 @@
+2021-03-29 02:22:16.0406|INFO|ChatLog|Load template:
+2021-03-29 02:22:16.0755|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:22:16.0755|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:22:16.0755|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:29:23.5690|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"1"}}
+2021-03-29 02:29:33.8035|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"1","roomKey":"2"}}
+2021-03-29 02:29:42.3889|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"3","roomKey":"3"}}
+2021-03-29 02:29:52.5452|ERROR|ChatLog|GetGameRoomKeyInfo. not found game room key info. GameRoomKey:채팅 룸을 선택해 주세요.
+2021-03-29 02:30:01.0894|ERROR|ChatLog|GetGameRoomKeyInfo. not found game room key info. GameRoomKey:채팅 룸을 선택해 주세요.
+2021-03-29 02:30:01.0894|ERROR|ChatLog|IsExistJoinedUser exception. Msg:not found game room info. Key:채팅 룸을 선택해 주세요.
+2021-03-29 02:30:01.1064|ERROR|ChatLog|Scenario push fail. Msg:not found game room info. Key:채팅 룸을 선택해 주세요.
+2021-03-29 02:30:16.5064|ERROR|ChatLog|GetGameRoomKeyInfo. not found game room key info. GameRoomKey:채팅 룸을 선택해 주세요.
+2021-03-29 02:30:22.1604|ERROR|ChatLog|GetGameRoomKeyInfo. not found game room key info. GameRoomKey:채팅 룸을 선택해 주세요.
+2021-03-29 02:30:22.1684|ERROR|ChatLog|IsExistJoinedUser exception. Msg:not found game room info. Key:채팅 룸을 선택해 주세요.
+2021-03-29 02:30:29.0560|ERROR|ChatLog|Scenario push fail. Msg:not found game room info. Key:채팅 룸을 선택해 주세요.
+2021-03-29 02:32:37.2175|INFO|ChatLog|Load template:
+2021-03-29 02:32:37.2364|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:32:37.2364|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:32:37.2364|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:32:51.3164|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"REGION","serverKey":"1","roomKey":"2"}}
+2021-03-29 02:32:55.0207|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"REGION","serverKey":"3","roomKey":"3"}}
+2021-03-29 02:33:49.0856|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"LINE","serverKey":"1","roomKey":"1"}}
+2021-03-29 02:34:05.5483|ERROR|ChatLog|Request Data >> {"gameRoomKeyInfo":{"type":"WORLD","serverKey":"4","roomKey":"4"}}
+2021-03-29 02:34:10.7959|ERROR|ChatLog|GetGameRoomKeyInfo. not found game room key info. GameRoomKey:채팅 룸을 선택해 주세요.
+2021-03-29 02:34:10.7959|ERROR|ChatLog|IsExistJoinedUser exception. Msg:not found game room info. Key:채팅 룸을 선택해 주세요.
+2021-03-29 02:34:14.6749|ERROR|ChatLog|Scenario push fail. Msg:not found game room info. Key:채팅 룸을 선택해 주세요.
+2021-03-29 02:34:29.2231|ERROR|ChatLog|GetGameRoomKeyInfo. not found game room key info. GameRoomKey:채팅 룸을 선택해 주세요.
+2021-03-29 02:34:29.2301|ERROR|ChatLog|IsExistJoinedUser exception. Msg:not found game room info. Key:채팅 룸을 선택해 주세요.
+2021-03-29 02:34:29.2301|ERROR|ChatLog|Scenario push fail. Msg:not found game room info. Key:채팅 룸을 선택해 주세요.
+2021-03-29 02:34:39.0481|INFO|ChatLog|Save Scenario Info
+2021-03-29 02:38:16.8875|INFO|ChatLog|Load template:
+2021-03-29 02:38:16.9045|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:38:16.9045|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:38:16.9045|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:39:49.3839|INFO|ChatLog|Load template:
+2021-03-29 02:39:49.4079|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:39:49.4079|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:39:49.4079|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:51:50.5669|INFO|ChatLog|Load template:
+2021-03-29 02:51:50.5849|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:51:50.5849|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 02:51:50.5849|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 03:00:22.4711|INFO|ChatLog|Load template:
+2021-03-29 03:00:22.4910|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 03:00:22.4910|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 03:00:22.4910|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 04:43:00.7343|INFO|ChatLog|Load template:
+2021-03-29 04:43:00.7602|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 04:43:00.7602|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 04:43:00.7602|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 05:12:25.4320|INFO|ChatLog|Load template:
+2021-03-29 05:12:25.4450|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 05:12:25.4450|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
+2021-03-29 05:12:25.4450|DEBUG|ChatLog|Add user info. Data:ClientForm.Config.LoginUserInfo
